@@ -15,3 +15,7 @@ start esx_servicesradio
 So there
 
 (You will have to create a rtc when your radio is on you will not hear the people in front of you)
+ 
+ 
+ 
+ Help Discord : https://discord.gg/FUxcyGw
